@@ -1,0 +1,27 @@
+# Node
+node_modules/
+dist/
+
+# Python
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+env/
+venv/
+.env
+
+# Docker
+*.log
+
+# macOS
+.DS_Store
+
+# VSCode
+.vscode/
+
+# Яндекс.Диск и др.
+.Yandex*
+
+# Bytecode
+*.py[cod]
