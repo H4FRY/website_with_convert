@@ -45,7 +45,3 @@ unit_converter_app/
 ├── docker-compose.yml
 └── README.md
 ```
-## 📸 Preview
-
-![App Screenshot](./frontend/public/preview.jpeg)
-![App Screenshot](./frontend/public/preview2.jpeg)
