@@ -32,7 +32,7 @@ docker-compose up --build
 
 
 ```
-unit_converter_app/
+website_with_convert/
 ├── backend/        # FastAPI backend
 │   ├── main.py
 │   ├── requirements.txt
