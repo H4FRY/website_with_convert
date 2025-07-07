@@ -16,7 +16,6 @@ A complete web application for converting measurement units (length, weight, tem
 
 ```bash
 git clone https://github.com/your-username/unit_converter_app.git
-cd unit_converter_app
 ```
 
 ### 2. Build and run the project
