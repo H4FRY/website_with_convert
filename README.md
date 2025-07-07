@@ -47,5 +47,5 @@ unit_converter_app/
 ```
 ## 📸 Preview
 
-![App Screenshot](./frontend/public/preview.png)
-![App Screenshot](./frontend/public/preview2.png)
+![App Screenshot](./frontend/public/preview.jpeg)
+![App Screenshot](./frontend/public/preview2.jpeg)
